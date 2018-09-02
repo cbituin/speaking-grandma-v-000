@@ -16,7 +16,7 @@ def speak_to_grandma(str)
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
-  elsif str == "I LOVE YOU GRANDMA!"
+  else str == "I LOVE YOU GRANDMA!"
     'I LOVE YOU TOO PUMPKIN!'
   end
 end
