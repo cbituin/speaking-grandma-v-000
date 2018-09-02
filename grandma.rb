@@ -5,7 +5,8 @@ def speak_to_grandma(str)
 
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-if str = 
+if str = str.upcase
+  puts ""
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
